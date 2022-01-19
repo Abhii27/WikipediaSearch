@@ -11,7 +11,7 @@ export class PageListComponent implements OnInit {
 
 
   @Input() pages: any[] = [];
-  xss = '<img src="" onerror="alert(123)" />';
+  //xss = '<img src="" onerror="alert(123)" />';
   constructor() { }
 
   ngOnInit(): void {
