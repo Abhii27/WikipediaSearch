@@ -1,5 +1,11 @@
 .box {
   margin-top: 40px;
   margin-bottom: 20px;
+  border-radius:50px;
+  background-color:rgba(0, 108, 216, 0.671);
+}
 
+input[type="text"]{
+  border: none;
+  border-radius:25px;
 }

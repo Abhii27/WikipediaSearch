@@ -1,0 +1,18 @@
+table{
+    background-color:rgba(56, 56, 231, 0.541);
+    border-radius:25px;
+}
+
+thead{
+    text-align:center;
+    font-size:18px;
+}
+
+th{
+    vertical-align: middle;
+}
+
+tbody{
+    background-color:rgba(205, 230, 252, 0.884);
+    text-align:center;
+}
